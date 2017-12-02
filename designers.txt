@@ -1,0 +1,44 @@
+RICK OWENS,http://www.yoox.com/us/men/shoponline/rick%20owens_d/{0}#/d=1316&dept=men&gender=U&page={0}&season=X
+NILØS,https://www.yoox.com/us/men/shoponline/nil%C3%B8s_d/{0}#/d=39188&dept=men&gender=U&season=X
+LOST & FOUND,http://www.yoox.com/us/men/shoponline/lost%20&%20found_d/{0}#/d=12635&dept=men&gender=U&page={0}&season=X
+ISABEL BENENATO,http://www.yoox.com/us/men/shoponline/isabel%20benenato_d/{0}#/d=14402&dept=men&gender=U&season=X
+CIZNIA ARAIA,http://www.yoox.com/us/men/shoponline/cinzia%20araia_d/%7B0%7D#/d=14499&dept=men&gender=U&page={0}&season=X
+MASNADA,http://www.yoox.com/us/men/shoponline/masnada_d/{0}#/d=5720&dept=men&gender=U&page={0}&season=X
+POÈME BOHÈMIEN,http://www.yoox.com/us/men/shoponline/po%C3%A8me%20boh%C3%A8mien_d/{0}#/d=16062&dept=men&gender=U&page={0}&season=X
+ANN DEMEULEMEESTER,http://www.yoox.com/us/men/shoponline/ann%20demeulemeester_d/{0}#/d=129&dept=men&gender=U&page={0}&season=X
+L.G.B.,http://www.yoox.com/us/men/shoponline/l.g.b._d/{0}#/d=3127&dept=men&gender=U&page={0}&season=X
+IF SIX WAS NINE,http://www.yoox.com/us/men/shoponline/if%20six%20was%20nine_d/{0}#/d=2921&dept=men&gender=U&page={0}&season=X
+GIUSEPPE ZANOTTI DESIGN,http://www.yoox.com/us/men/shoponline/giuseppe%20zanotti%20design_d/{0}#/d=3117&dept=men&gender=U&page={0}&season=X
+GIVENCHY,http://www.yoox.com/us/men/shoponline/givenchy_d/{0}#/d=792&dept=men&gender=U&page={0}&season=X
+DIESEL BLACK GOLD,http://www.yoox.com/us/men/shoponline/diesel%20black%20gold_d/{0}#/d=11660&dept=men&gender=U&page={0}&season=X
+DRKSHDW by RICK OWENS,http://www.yoox.com/us/men/shoponline/drkshdw%20by%20rick%20owens_d/{0}#/d=14167&dept=men&gender=U&page={0}&season=X
+BRUNO BORDESE,http://www.yoox.com/us/men/shoponline/bruno%20bordese_d/{0}#/d=2471&dept=men&gender=U&page={0}&season=X
+BARBARA I GONGINI,http://www.yoox.com/us/men/shoponline/barbara%20i%20gongini_d/{0}#/d=15633&dept=men&gender=U&page={0}&season=X
+RICK OWENS x ADIDAS,http://www.yoox.com/us/men/shoponline/rick%20owens%20x%20adidas_d/{0}#/d=27146&dept=men&gender=U&page={0}&season=X
+GARETH PUGH,http://www.yoox.com/us/men/shoponline/gareth%20pugh_d/{0}#/d=10456&dept=men&gender=U&page={0}&season=X
+ANDREA YA' AQOV,http://www.yoox.com/us/men/shoponline/andrea%20ya'%20aqov_d/{0}#/d=29995&dept=men&gender=U&page={0}&season=X
+BALMAIN,http://www.yoox.com/us/men/shoponline/balmain_d/{0}#/d=4086&dept=men&gender=U&page={0}&season=X
+SAINT LAURENT,http://www.yoox.com/us/men/shoponline/saint%20laurent_d/{0}#/d=24494&dept=men&gender=U&page={0}&season=X
+SIYAH ISTANBUL,http://www.yoox.com/us/men/shoponline/siyah%20istanbul_d/{0}#/d=32086&dept=men&gender=U&page={0}&season=X
+STAMPD,http://www.yoox.com/us/men/shoponline/stampd_d/{0}#/d=32760&dept=men&gender=U&page={0}&season=X
+NLST,http://www.yoox.com/us/men/shoponline/nlst_d/{0}#/d=33375&dept=men&gender=U&page={0}&season=X
+FAGASSENT,http://www.yoox.com/us/men/shoponline/fagassent_d/{0}#/d=27214&dept=men&gender=U&page={0}&season=X
+GIOVANNI CAVAGNA,http://www.yoox.com/us/men/shoponline/giovanni%20cavagna_d/{0}#/d=24483&dept=men&gender=U&page={0}&season=X
+ADIDAS x JUUN.J,http://www.yoox.com/us/men/shoponline/adidas%20x%20juun.j_d/{0}#/d=30942&dept=men&gender=U&page={0}&season=X
+10 SEI 0 OTTO,http://www.yoox.com/us/men/shoponline/10%20sei%200%20otto_d/{0}#/d=14286&dept=men&gender=U&page={0}&season=X
+DAMIR DOMA,http://www.yoox.com/us/men/shoponline/damir%20doma_d/{0}#/d=12041&dept=men&gender=U&page={0}&season=X
+SILENT DAMIR DOMA,http://www.yoox.com/us/men/shoponline/silent%20damir%20doma_d/{0}#/d=19694&dept=men&gender=U&page={0}&season=X
+HAIDER ACKERMANN,http://www.yoox.com/us/men/shoponline/haider%20ackermann_d/{0}#/d=2250&dept=men&gender=U&page={0}&season=X
+CHRISTOPHER KANE,http://www.yoox.com/us/men/shoponline/christopher%20kane_d/{0}#/d=12172&dept=men&gender=U&page={0}&season=X
+TOM REBL,http://www.yoox.com/us/men/shoponline/tom%20rebl_d/{0}#/d=11422&dept=men&gender=U&page={0}&season=X
+ODEUR,http://www.yoox.com/us/men/shoponline/odeur_d/{0}#/d=19241&dept=men&gender=U&page={0}&season=X
+OVERCOME,http://www.yoox.com/us/men/shoponline/overcome_d/{0}#/d=27395&dept=men&gender=U&page={0}&season=X
+DIOR HOMME,http://www.yoox.com/us/men/shoponline/dior%20homme_d/{0}#/d=1252&dept=men&gender=U&page={0}&season=X
+ROCHAMBEAU,http://www.yoox.com/us/men/shoponline/rochambeau_d/{0}#/d=34897&dept=men&gender=U&page={0}&season=X
+MAISON MARGIELA 22,http://www.yoox.com/us/men/shoponline/maison%20margiela%2022_d/{0}#/d=6501&dept=men&gender=U&page={0}&season=X
+THE VIRIDI-ANNE,http://www.yoox.com/us/men/shoponline/the%20viridi-anne_d/{0}#/d=12498&dept=men&gender=U&page={0}&season=X
+_JULIUS,http://www.yoox.com/us/men/shoponline/_julius_d/{0}#/d=12476&dept=men&gender=U&page={0}&season=X
+MARSÈLL,http://www.yoox.com/us/men/shoponline/marsèll_d/{0}#/d=26196&dept=men&gender=U&page={0}&season=X
+RICK OWENS,https://www.yoox.com/us/women/shoponline/rick%20owens_d/{0}#/d=1316&dept=women&gender=D&page={0}&season=X
+DRKSHDW by RICK OWENS,https://www.yoox.com/us/women/shoponline/drkshdw%20by%20rick%20owens_d/{0}#/d=14167&dept=women&gender=D&page={0}&season=X
+BALMAIN,https://www.yoox.com/us/women/shoponline/balmain_d/{0}#/d=4086&dept=women&gender=D&page={0}&season=X

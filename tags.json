@@ -1,0 +1,16 @@
+{
+    "yoox": {
+        "id": "//div[@id]/@data-current-cod10",
+        "sale_price": "//div[@id='{0}']//span[@class='price']//span[contains(@class,'newprice') or contains(@class,'fullprice')]/text()",
+        "drop_price": "//div[@id='{0}']//span[@class='price']//span[contains(@class,'newprice')]/text()",
+        "full_price": "//div[@id='{0}']//span[@class='price']//span[contains(@class,'fullprice')]/text()",
+        "url": "//div[@id='{0}']//a[@class='itemlink']/@href",
+        "brand": "//div[@id='{0}']//a[@class='itemlink']//div[contains(@class,'brand')]/text()",
+        "category":"//div[@id='{0}']/@data-category",
+        "img":"//div[@id='{0}']//div[@class]/a[@href]/img[@class]/@data-original",
+        "promo": "//div[@id='{0}']//div[@class='itemBadge']",
+        "promotions": "//div[contains(@class,'text-primary')]/i/text()",
+        "price": "//span[@itemprop='price']/text()",
+        "final": "//b/text()"
+    }   
+}

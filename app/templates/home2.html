@@ -1,0 +1,28 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}This is an example page{% endblock %}
+
+{% block navbar %}
+<div class="navbar navbar-fixed-top">
+  <!-- ... -->
+</div>
+{% endblock %}
+
+{% block content %}
+<div class="container-fluid">
+  <h1>YOOX DREAMBOX ITEMS </h1>
+  <p>Resize the browser window to see the effect.</p>
+  <div class="row">
+    {% for item in data %}
+    <div class="col-sm-3" style="background-color:white;"> 
+        <a href=http://www.yoox.com{{item['url']}}>
+            <img src={{ item['img']}} >
+        </a>
+            <p> {{item['brand']}}
+            <p> ${{item['price'][0]}} </p>
+            <p> {{item['category']}} </p>
+            
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endblock %}

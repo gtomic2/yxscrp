@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+
+    <strong><link rel="stylesheet" href="{{ url_for('static', filename='css/about.css') }}"></strong>
+    <div class="jumbo">
+        <h2> YooX Dream Box <h2>
+        <h3> New Items, Drops, Returns, EVERYTHING! <h3>
+    </div>
+    <div id='items'>
+        {% for item in data%}
+    
+            <a href=http://www.yoox.com{{item['url']}} class='floating-box'>
+                <img src={{ item['img']}} alt="some_text" style="50:50;50:50;" class='floating-box'>
+        </a>
+        {% endfor %}
+    </div>
+
+
+
+    }
+{% endblock %}
+
+
+
+
